@@ -1,0 +1,105 @@
+.gst{
+  display: flex;
+    padding: 150px;
+    padding-left: 330px;
+    border: 2px solid black;
+ 
+background-image: url('/goods-services-tax-india-gst-indian-rupee-symbol-abstract-background-slabs-illustration-finance-back-currency-blu-186876202.webp');
+}
+
+
+.table{
+    font-size: 30px;
+    color: rgb(207, 176, 36);
+    
+   padding-left: 100px;
+   padding-top: 40px;
+    border: 8px solid rgb(197, 178, 10);
+    border-top-left-radius: 170px;
+ 
+    width: 340px;
+    height: 430px;
+
+    backdrop-filter: blur(80px) ;
+
+}
+
+
+#prize{
+    width: 190px;
+    height: 33px;
+    font-size: 18px;
+}
+#name{
+    width: 190px;
+    height: 33px;
+    font-size: 18px;
+}
+#quantity{
+    width: 190px;
+    height: 33px;
+    font-size: 18px;
+}
+
+
+
+input [type=number] {
+
+    font-size: 15px;
+ padding: 5px;
+ margin: 10px 10px 20px 0px;
+ 
+}
+button{
+    font-size: 20px;
+    width:200px;
+    height: 60px;
+   background-color:  darkgoldenrod;
+  
+}
+.ss{
+    
+    
+
+}
+.bor{
+    border: 8px solid rgb(200, 180, 7);
+    border-top-right-radius: 170px;
+
+    
+    width: 290px;
+    height: 470px;
+    padding-left:100px ;
+    
+    color: rgb(207, 176, 36);
+    font-size: 15px;
+    
+    backdrop-filter: blur(70px) ;
+  
+  
+}
+
+#cgst,#sgst,#tgst{
+font-size: 22px;
+    width: 160px;
+    height:32px ;
+   color: black;
+    background-color: rgb(249, 248, 243);
+   
+
+}
+#amount{
+    font-size: 22px;
+    width: 160px;
+    height:52px ;
+   color: black;
+    background-color:  darkgoldenrod;
+    
+   
+
+}
+
+
+
+
+
